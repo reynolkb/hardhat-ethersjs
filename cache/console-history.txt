@@ -1,0 +1,57 @@
+.exit
+(await box.retrieve()).toString()
+await box.store(1234);
+const box = await Box.attach('0x2934F852B7A4Cd415e3Eb688dF10a2371e7EA0cd');
+const Box = await ethers.getContractFactory('Box');
+const Box = await ethers.getContractFactoryBox('Box');
+.exit
+accounts = await ethers.provider.listAccounts()
+.exit
+(await box.retrieve()).toString()
+await box.store(234);
+const box = await Box.attach('0x3777623b3DDb1b0063ed8043B13f1f9ede4D28f8');
+const Box = await ethers.getContractFactory('Box');
+.exit
+(await box.retrieve()).toString()
+await box.store(21);
+const box = await Box.attach('0x0725CBf9ef1f3bCf12d4dDE917AF3fb03f7cF9f7');
+const Box = await ethers.getContractFactory('Box');
+.exit
+(await box.retrieve()).toString()
+await box.store(200);
+const box = await Box.attach('0x0725CBf9ef1f3bCf12d4dDE917AF3fb03f7cF9f7');
+const Box = await ethers.getContractFactory('Box');
+.exit
+accounts = await ethers.provider.listAccounts()
+.exit
+(await box.retrieve()).toString()
+await box.store(200);
+const box = await Box.attach('0x3777623b3DDb1b0063ed8043B13f1f9ede4D28f8');
+const Box = await ethers.getContractFactory('Box');
+.exit
+(await box.retrieve()).toString();
+(await box.retrieve()).toString()
+await box.store(200);
+const box = await Box.attach('0x3777623b3DDb1b0063ed8043B13f1f9ede4D28f8');
+const Box = await ethers.getContractFactory('Box');
+.exit
+(await box.retrieve()).toString()
+await box.store(100);
+const box = await Box.attach('0xCFE4B308D556A8435853793E978893025a28Bb2B');
+const Box = await ethers.getContractFactory('Box');
+.exit
+(await box.retrieve()).toString()
+await box.store(100);
+const box = await Box.attach('0xCFE4B308D556A8435853793E978893025a28Bb2B');
+const box = await Box.attach('0xD7fBC6865542846e5d7236821B5e045288259cf0');
+const Box = await ethers.getContractFactory('Box');
+.exit
+(await ethers.provider.getBalance(accounts[0])).toString()
+> (await ethers.provider.getBalance(accounts[0])).toString()
+accounts = await ethers.provider.listAccounts()
+.exit
+(await box.retrieve()).toString()
+await box.retrieve()
+await box.store(42)
+const box = await Box.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const Box = await ethers.getContractFactory('Box');
